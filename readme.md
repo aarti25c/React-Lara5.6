@@ -8,6 +8,7 @@ With Laravel5.6 we will build restfull API's which will be communicate with UI R
 ```PHP
 git clone https://github.com/aarti25c/React-Lara5.6.git
 ```
+- Run `cd React-Lara5.6.git`
 
 - Run `composer install`
 
