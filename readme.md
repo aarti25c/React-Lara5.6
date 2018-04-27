@@ -15,3 +15,5 @@ git clone https://github.com/aarti25c/React-Lara5.6.git
 
 - Run `npm install`
 
+- Run `npm run build`
+
