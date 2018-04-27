@@ -12,6 +12,10 @@ git clone https://github.com/aarti25c/React-Lara5.6.git
 
 - Run `composer install`
 
+- Rename `.env.example to .env`
+
+- Run `php arisan key:generate`
+
 - Run `php artisan preset react`
 
 - Run `npm install`
